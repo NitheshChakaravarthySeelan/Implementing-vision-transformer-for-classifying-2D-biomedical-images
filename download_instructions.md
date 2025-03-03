@@ -14,9 +14,7 @@ Visit the official MedMNIST website: https://medmnist.com/
 Navigate to the download section and select the desired subsets.
 Follow the provided instructions to download the files.
 Organize the downloaded data into subfolders under the data/ directory, for example:
-kotlin
-Copy
-Edit
+
 data/
 ├── BloodMNIST/
 │   ├── train_images.npy
